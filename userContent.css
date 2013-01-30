@@ -1,0 +1,21 @@
+@-moz-document domain(lenta.ru) {
+    body {
+        font-family: "Droid Sans" !important;
+    }
+    a {
+        text-decoration: underline !important;
+        color: #11c !important;
+    }
+    a:visited {
+        color: #656595 !important;
+    }
+    div#sidebar-menu {
+        background: white !important;
+    }
+    section.b-tabloid {
+        display: none !important;
+    }
+    div.b-topic-addition {
+        display: none !important;
+    }
+}
